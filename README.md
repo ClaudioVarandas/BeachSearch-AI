@@ -1,13 +1,11 @@
-# Praias RAG 
-## Projecto desenvolvido no ambito do curso
-### Introdução Prática à Inteligência Artificial | Programadores
+# BeachSearch-AI 
+Projecto desenvolvido no ambito do curso
+Introdução Prática à Inteligência Artificial | Programadores
 
-##### Code for All - Academia de código
-##### Data : Maio 2025
-##### Formador : João Pereira 
-##### Formando : Cláudio Varandas
-
-
+Code for All - Academia de código
+Data : Maio 2025
+Formador : João Pereira 
+Formando : Cláudio Varandas
 
 
 ## Instalação do projecto
