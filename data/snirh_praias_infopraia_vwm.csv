@@ -1,0 +1,756 @@
+id,Nome da Praia,Região,Concelho,Categoria,Qualidade da água,Vigilancia,Posto de socorro,Sanitarios,Duche,Recolha lixo,Limpeza praia,Painel informativo,Apoio balnear,Apoio à praia,Estacionamento,Bandeira Azul,Acessível,Cadeira anfíbia,Ondas especiais,Obras em curso,Risco de derrocada
+10146368816,Açude de Vais,CENTRO,PENALVA DO CASTELO,Praia Interior,Água interdita a banhos,Não,Não,Não,Não,Sim,Sim,Não,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+8979630310,Alverangel,TEJO,TOMAR,Praia Interior,Ainda não há análises,Não,Não,Não,Não,Não,Não,Sim,Não,Não,Não,Não,Não,Não,Não,Não,Não
+8979630776,Praia do Forte (Farol),CENTRO,FIGUEIRA DA FOZ,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+8979630030,Cabedelinho,CENTRO,FIGUEIRA DA FOZ,Praia Interior,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não,Não
+8979630658,Albandeira,ALGARVE,LAGOA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Sim
+8979630660,Marinha,ALGARVE,LAGOA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Sim
+8979630314,Furnas,ALGARVE,VILA DO BISPO,Praia Costeira,Água adequada a banhos,Não,Não,Não,Não,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Sim,Não,Sim
+8979630286,Zavial,ALGARVE,VILA DO BISPO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Sim
+8979630316,Martinhal,ALGARVE,VILA DO BISPO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Sim
+8979630502,Beliche,ALGARVE,VILA DO BISPO,Praia Costeira,Água adequada a banhos,Sim,Não,Não,Não,Sim,Sim,Não,Não,Sim,Sim,Não,Não,Não,Sim,Não,Sim
+8979630150,Barranco,ALGARVE,VILA DO BISPO,Praia Costeira,Água adequada a banhos,Não,Não,Não,Não,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Sim,Não,Sim
+8979630424,Almargem,ALGARVE,LOULÉ,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não
+8979630704,Careanos/Amado,ALGARVE,PORTIMÃO,Praia Costeira,Água adequada a banhos,Sim,Não,Não,Não,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não,Sim
+8979630432,Salema,ALGARVE,VILA DO BISPO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim
+8979630854,Três Castelos,ALGARVE,PORTIMÃO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Sim
+8979630420,Almádena - Cabanas Velhas,ALGARVE,VILA DO BISPO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Sim
+8979630210,Ferragudo (Praia Grande),ALGARVE,LAGOA,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Sim
+8979630088,Rocha,ALGARVE,PORTIMÃO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Sim
+8979630070,Tonel,ALGARVE,VILA DO BISPO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Sim
+8979630470,Loulé Velho,ALGARVE,LOULÉ,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630810,Barranco das Canas,ALGARVE,PORTIMÃO,Praia Costeira,Água adequada a banhos,Sim,Não,Não,Não,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Sim,Não,Sim
+8979630760,Alvor - Nascente,ALGARVE,PORTIMÃO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Sim
+8979630246,Caneiros,ALGARVE,LAGOA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Sim
+9636731694,Três Irmãos,ALGARVE,PORTIMÃO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Sim
+8979630680,Burgau,ALGARVE,VILA DO BISPO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Sim
+8979630798,Mareta,ALGARVE,VILA DO BISPO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Sim,Não,Sim
+8979630178,Boca do Rio,ALGARVE,VILA DO BISPO,Praia Costeira,Água adequada a banhos,Não,Não,Não,Não,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Sim,Não,Não
+8979630576,Marina de Portimão,ALGARVE,PORTIMÃO,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não
+8979630720,Quinta do Lago,ALGARVE,LOULÉ,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630100,Castelejo,ALGARVE,VILA DO BISPO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Sim
+8979629978,Saúde,TEJO,ALMADA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Sim,Não,Não
+8979629908,Galé - Oeste,ALGARVE,ALBUFEIRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim
+8979630730,Consolação Norte,TEJO,PENICHE,Praia Costeira,Água adequada a banhos,Não,Não,Não,Não,Sim,Sim,Não,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+8979629838,Cova da Alfarroba,TEJO,PENICHE,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não
+8979629798,Baleal Campismo,TEJO,PENICHE,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Sim,Não,Sim
+8979630208,Santa Helena,TEJO,TORRES VEDRAS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Sim
+8979630692,Infante,TEJO,ALMADA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não
+8979630796,Pisão-Santa Cruz,TEJO,TORRES VEDRAS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não
+8979630190,Ingrina,ALGARVE,VILA DO BISPO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Sim
+8979630040,Amanhã-Santa Cruz,TEJO,TORRES VEDRAS,Praia Costeira,Água adequada a banhos,Não,Não,Não,Não,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Sim,Não,Sim
+8979630434,Física-Santa Cruz,TEJO,TORRES VEDRAS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não
+8979630332,Mata,TEJO,ALMADA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não
+8979630802,Manuel Lourenço,ALGARVE,ALBUFEIRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim
+8979630166,Rocha Baixinha,ALGARVE,ALBUFEIRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não
+8979629840,Senhora da Rocha,ALGARVE,LAGOA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim
+8979630072,Rei,TEJO,ALMADA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Sim,Não,Não
+8979630082,Oura,ALGARVE,ALBUFEIRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim
+8979630096,Cova do Vapor,TEJO,ALMADA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Sim,Não,Não
+8979630712,Ilha do Farol - Mar Poente,ALGARVE,FARO,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não
+8979630732,Santa Rita-Sul,TEJO,TORRES VEDRAS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim
+8979630058,Riviera,TEJO,ALMADA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Sim,Não,Não
+8979629972,Alvor - Poente,ALGARVE,PORTIMÃO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+9636731690,Praia Nova da Senhora da Rocha,ALGARVE,LAGOA,Praia Costeira,Água adequada a banhos,Sim,Não,Não,Não,Sim,Sim,Não,Não,Não,Sim,Não,Não,Não,Não,Não,Sim
+8979630008,Vau,ALGARVE,PORTIMÃO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim
+8979630134,Dragão Vermelho,TEJO,ALMADA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não
+8979630546,Navio,TEJO,TORRES VEDRAS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim
+8979630136,Tarquinio-Paraíso,TEJO,ALMADA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não
+8979630158,CDS,TEJO,ALMADA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não
+8979630556,Morena,TEJO,ALMADA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Sim,Não,Não
+9649576842,Guincho-Santa Cruz,TEJO,TORRES VEDRAS,Praia Costeira,Água adequada a banhos,Não,Não,Não,Não,Sim,Sim,Não,Não,Não,Não,Não,Não,Não,Não,Não,Sim
+8979630256,Mirante-Santa Cruz,TEJO,TORRES VEDRAS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Sim,Não,Sim
+8979629950,Cordoama,ALGARVE,VILA DO BISPO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Sim
+8979630116,Cabeço,ALGARVE,CASTRO MARIM,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630064,Garrão - Nascente,ALGARVE,LOULÉ,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não
+8979630604,São Rafael,ALGARVE,ALBUFEIRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Sim
+10174971496,Ilha do Farol - Mar Nascente,ALGARVE,FARO,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não
+8979629952,Cabana do Pescador,TEJO,ALMADA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Sim,Não,Não
+8979630402,Rocha Baixinha - Nascente,ALGARVE,ALBUFEIRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não
+8979630282,Nova Vaga,TEJO,ALMADA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Sim,Não,Não
+8979630728,Ancão,ALGARVE,LOULÉ,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630160,St. António,TEJO,ALMADA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não
+8979630212,Castelo (Albufeira),ALGARVE,ALBUFEIRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Sim
+8979630302,Peniche de Cima,TEJO,PENICHE,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Sim,Não,Não
+8979630280,Bela Vista,TEJO,ALMADA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Sim,Não,Não
+9724180152,Banda d'Além,MADEIRA,MACHICO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+9724180160,Prainha,MADEIRA,MACHICO,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+9724180150,Ribeira do Natal,MADEIRA,MACHICO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Sim
+8979629916,Medão-Supertubos,TEJO,PENICHE,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não
+8979630306,Moinho de Baixo-Meco,TEJO,SESIMBRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Sim
+8979630740,Baleal Norte,TEJO,PENICHE,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Sim
+8979630696,Gambôa,TEJO,PENICHE,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não
+8979629982,S. Bernardino,TEJO,PENICHE,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Sim
+8979629790,Porto da Areia Sul,TEJO,PENICHE,Praia Costeira,Água adequada a banhos,Não,Não,Não,Não,Sim,Sim,Não,Não,Não,Sim,Não,Não,Não,Não,Não,Sim
+8979629826,Lagoa de Albufeira-Mar,TEJO,SESIMBRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não
+8979630350,Consolação,TEJO,PENICHE,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Sim
+8979630808,Porto Dinheiro,TEJO,LOURINHÃ,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Sim
+8979630090,Peralta,TEJO,LOURINHÃ,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim
+8979629992,Lagoa de Albufeira,TEJO,SESIMBRA,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Não,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+8979630066,Bicas,TEJO,SESIMBRA,Praia Costeira,Água adequada a banhos,Sim,Não,Não,Não,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Sim,Não,Sim
+8979629988,Baleal Sul,TEJO,PENICHE,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim
+8979630202,Valmitão,TEJO,LOURINHÃ,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Sim
+8979630176,Areal Sul,TEJO,LOURINHÃ,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim
+8979630596,Areia Branca,TEJO,LOURINHÃ,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim
+8979630352,Vale do Rossim,CENTRO,GOUVEIA,Praia Interior,Água adequada a banhos,Não,Não,Não,Não,Sim,Sim,Não,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+8979630486,Molhe,NORTE,PORTO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não
+8979630678,Pastoras,NORTE,PORTO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Sim,Não,Não,Não,Não,Não
+11294108616,Aquário,NORTE,PORTO,Praia Costeira,Água adequada a banhos,Sim,Sim,Não,Não,Sim,Sim,Sim,Não,Não,Não,Sim,Não,Não,Não,Não,Não
+8979630406,Segões,NORTE,MOIMENTA DA BEIRA,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Não
+8979630226,Central,NORTE,MATOSINHOS,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979629980,Prado Faial,NORTE,VILA VERDE,Praia Interior,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Não,Não
+8979630292,Memória,NORTE,MATOSINHOS,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Não,Sim,Não,Não
+8979630024,Cabo Mondego,CENTRO,FIGUEIRA DA FOZ,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Sim
+8979630474,Esteiro de Ereira,CENTRO,MONTEMOR-O-VELHO,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+8979630346,Santa Rita-Norte,TEJO,TORRES VEDRAS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim
+8979630258,Sabugueiro,CENTRO,SEIA,Praia Interior,Água adequada a banhos,Não,Não,Sim,Não,Sim,Sim,Não,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+8979629796,Dr. Pedro,CENTRO,SEIA,Praia Interior,Água adequada a banhos,Não,Não,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+8979630738,Pedras do Corgo,NORTE,MATOSINHOS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630460,Homem do Leme,NORTE,PORTO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não
+8979629860,Tamargueira,CENTRO,FIGUEIRA DA FOZ,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não
+8979630672,Ingleses,NORTE,PORTO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Sim,Não,Não,Não,Não,Não
+8979630852,Formosa,TEJO,TORRES VEDRAS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Não,Sim
+8979630562,Aldeia do Mato,TEJO,ABRANTES,Praia Interior,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Não,Não,Não,Não
+8979630080,Foz do Sizandro-Mar,TEJO,TORRES VEDRAS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim
+8979630242,Lapa dos Dinheiros,CENTRO,SEIA,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979629918,Quiaios,CENTRO,FIGUEIRA DA FOZ,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não
+8979629940,Marreco,NORTE,MATOSINHOS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630768,Molhe Norte,CENTRO,FIGUEIRA DA FOZ,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+8979630690,Azul (Matosinhos),NORTE,MATOSINHOS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Não,Não
+8979630094,Centro-Santa Cruz,TEJO,TORRES VEDRAS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630634,Angeiras Norte,NORTE,MATOSINHOS,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979629776,Azul (Torres Vedras),TEJO,TORRES VEDRAS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim
+8979630550,Porto Novo,TEJO,TORRES VEDRAS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim
+8979630674,Luz (Porto),NORTE,PORTO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Sim,Não,Não,Não,Não,Não
+8979629968,Boa Nova-Senhora,NORTE,MATOSINHOS,Praia Costeira,Água adequada a banhos,Sim,Não,Não,Não,Sim,Sim,Não,Não,Não,Sim,Sim,Não,Não,Não,Não,Não
+8979630062,Fuzelhas,NORTE,MATOSINHOS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não
+8979630164,Albufeira do Vilar,NORTE,MOIMENTA DA BEIRA,Praia Interior,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Não
+8979630222,Cavez,NORTE,CABECEIRAS DE BASTO,Praia Interior,Água adequada a banhos,Não,Não,Sim,Não,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não,Não,Não
+8979630766,Alto do Viso,CENTRO,FIGUEIRA DA FOZ,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+9636731644,Leça da Palmeira,NORTE,MATOSINHOS,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Sim,Não,Não
+8979630490,Leirosa,CENTRO,FIGUEIRA DA FOZ,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Sim,Sim,Não,Não,Não,Não
+8979629818,Cabo do Mundo,NORTE,MATOSINHOS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+10146368834,Pedras Ruivas,NORTE,CAMINHA,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+8979630334,Loriga,CENTRO,SEIA,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630548,Buarcos,CENTRO,FIGUEIRA DA FOZ,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não
+8979630012,Aterro,NORTE,MATOSINHOS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630126,Cova-Gala,CENTRO,FIGUEIRA DA FOZ,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Sim,Não,Não
+8979630856,Molhe Leste,TEJO,PENICHE,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Sim,Não,Não
+8979630274,Folgosa,NORTE,CASTRO DAIRE,Praia Interior,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Não
+10146368844,Praia Fluvial do Sorraia,TEJO,CORUCHE,Praia Interior,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Não,Não
+8979630228,Costa de Lavos,CENTRO,FIGUEIRA DA FOZ,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Sim,Não,Não,Sim,Não,Não
+8979629782,Azenhas - Vilar de Mouros,NORTE,CAMINHA,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Sim,Não,Não,Não,Não,Não
+8979630148,Albufeira do Ermal,NORTE,VIEIRA DO MINHO,Praia Interior,Água adequada a banhos,Não,Não,Sim,Não,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Não
+8979629816,Agroal,TEJO,OURÉM,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Não,Não,Não,Não
+8979630426,Albufeira de Queimadela,NORTE,FAFE,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630168,Fontes,TEJO,ABRANTES,Praia Interior,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Não,Não
+8979630484,Gondarém,NORTE,PORTO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não
+10146368838,Vila da Ponte,NORTE,SERNANCELHE,Praia Interior,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+8979630670,Carneiro,NORTE,PORTO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Sim,Sim,Sim,Não,Não,Não
+10686881412,Praia Fluvial de Constância,TEJO,CONSTÂNCIA,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+8979629868,Alqueirão,NORTE,TERRAS DE BOURO,Praia Interior,Água adequada a banhos,Não,Não,Sim,Não,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+8979630308,Cabedelo,CENTRO,FIGUEIRA DA FOZ,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não
+8979630032,Agudela,NORTE,MATOSINHOS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Sim,Sim,Sim,Não,Não,Não
+8979630034,Pedras da Agudela,NORTE,MATOSINHOS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não,Sim,Não
+8979630676,Ourigo,NORTE,PORTO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Sim,Não,Sim,Não,Não,Não,Não,Não
+8979630770,Relógio,CENTRO,FIGUEIRA DA FOZ,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não
+8979630734,Pedras Brancas,NORTE,MATOSINHOS,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Sim,Não,Não,Não,Não,Não
+8979629892,Quebrada,NORTE,MATOSINHOS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630560,Funtão,NORTE,MATOSINHOS,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630780,Murtinheira,CENTRO,FIGUEIRA DA FOZ,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Sim
+11176112004,Lagoa da Ervedeira,CENTRO,LEIRIA,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Sim,Sim,Não,Não,Não,Não,Não
+8979630574,Verim,NORTE,PÓVOA DE LANHOSO,Praia Interior,Água interdita a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Sim,Não
+8979630800,Maravilha,NORTE,MIRANDELA,Praia Interior,Água adequada a banhos,Não,Não,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não
+8979630784,Sãozinha,NORTE,VILA NOVA DE GAIA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não
+8979630252,Manta Rota,ALGARVE,VILA REAL DE SANTO ANTÓNIO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630438,Marbelo,NORTE,VILA NOVA DE GAIA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Sim,Não,Sim,Não,Não,Não,Não,Não
+10686881410,Rapoula do Côa,NORTE,SABUGAL,Praia Interior,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+8979630140,Pintadinho,ALGARVE,LAGOA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Sim
+8979629902,Monte Branco,CENTRO,MURTOSA,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630152,Norte,NORTE,VIANA DO CASTELO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Sim,Não,Não,Não,Não,Não
+8979629872,Tremoços,ALGARVE,LAGOA,Praia Costeira,Água adequada a banhos,Sim,Não,Não,Não,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não,Não,Não,Sim
+8979630610,Costa de Santo André,ALENTEJO,SANTIAGO DO CACÉM,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não
+8979629906,S. Julião,TEJO,SINTRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Sim,Não,Sim
+8979630626,Vagueira Sul,CENTRO,VAGOS,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Sim,Não,Não
+8979630142,Senhor da Pedra,NORTE,VILA NOVA DE GAIA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não
+9636731658,Suave Mar (Sul),NORTE,ESPOSENDE,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Sim,Não,Não
+8979629946,Rio de Moinhos,NORTE,ESPOSENDE,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Não,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+8979629994,Barcos,NORTE,VILA DO CONDE,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não
+9636731660,Pedrógão Centro,CENTRO,LEIRIA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim
+8979630416,Lameira - Quadrazais,NORTE,SABUGAL,Praia Interior,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+8979630492,Areínho (Ria de Aveiro),CENTRO,OVAR,Praia Interior,Água adequada a banhos,Não,Não,Não,Não,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+8979630338,Bico,CENTRO,MURTOSA,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Sim,Sim,Sim,Sim,Não,Não,Não
+8979629794,Fuseta - Mar,ALGARVE,OLHÃO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não
+8979630002,Pôr do Sol,NORTE,VILA DO CONDE,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Sim,Não
+8979630224,Fonte do Cortiço,ALENTEJO,SANTIAGO DO CACÉM,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Não,Não,Sim,Sim,Não,Não,Sim,Não,Não
+8979630706,Meia Laranja,CENTRO,ÍLHAVO,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+8979630630,Tróia - Mar,ALENTEJO,GRÂNDOLA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não
+8979630290,Afife,NORTE,VIANA DO CASTELO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Não,Não
+8979630762,Boca Mar,NORTE,VILA NOVA DE GAIA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Sim,Não,Não,Não,Sim,Não
+8979630656,Pinhal dos Elétricos,NORTE,VILA DO CONDE,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não,Não
+8979629780,Fábrica - Mar,ALGARVE,VILA REAL DE SANTO ANTÓNIO,Praia Costeira,Água adequada a banhos,Sim,Não,Não,Não,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não,Não,Não
+8979630848,Forte do Cão - Gelfa,NORTE,CAMINHA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Não,Não,Sim,Sim,Não,Não,Não,Não,Não
+8979630254,Albufeira de Alfaiates,NORTE,SABUGAL,Praia Interior,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+9636731682,Nazaré Sul,TEJO,NAZARÉ,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não
+8979630642,Pucinho,NORTE,VILA DO CONDE,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não,Não
+8979630418,Praia Grande - Nascente,ALGARVE,SILVES,Praia Costeira,Água adequada a banhos,Sim,Não,Não,Não,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não,Não
+8979630132,Torrão do Lameiro,CENTRO,OVAR,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+8979630450,S. João do Monte,CENTRO,TONDELA,Praia Interior,Água adequada a banhos,Não,Não,Sim,Não,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+8979630742,Benagil,ALGARVE,LAGOA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Sim
+8979630716,Água de Madeiros,TEJO,ALCOBAÇA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Não,Não,Sim
+8979630590,Praia Azul (Vila do Conde),NORTE,VILA DO CONDE,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não
+9636731698,Monte Gordo Poente,ALGARVE,VILA REAL DE SANTO ANTÓNIO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630618,Santo António,ALGARVE,VILA REAL DE SANTO ANTÓNIO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630544,Osso da Baleia,CENTRO,POMBAL,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não
+8979630052,Carriça,CENTRO,OLIVEIRA DE FRADES,Praia Interior,Água adequada a banhos,Não,Não,Não,Não,Sim,Sim,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não
+8979629862,Pedra do Ouro,TEJO,ALCOBAÇA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Sim
+8979630628,Praia Verde,ALGARVE,CASTRO MARIM,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630648,Furadouro,CENTRO,OVAR,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não
+9632354756,Ponte de Juncais,CENTRO,FORNOS DE ALGODRES,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+8979630394,Cortegaça,CENTRO,OVAR,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não
+8979630652,Laderça,NORTE,VILA DO CONDE,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não
+8979629836,Miramar Sul,NORTE,VILA NOVA DE GAIA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não
+8979630786,Árvore,NORTE,VILA DO CONDE,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não
+8979630482,Pedras Amarelas,NORTE,VILA NOVA DE GAIA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não
+9724180225,Grande Norte,TEJO,SINTRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Sim,Não,Sim
+8979630592,Turismo,NORTE,VILA DO CONDE,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não
+8979630206,Deserta (Barreta),ALGARVE,FARO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não
+8979629820,Carreço,NORTE,VIANA DO CASTELO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630386,Ponte Frades,NORTE,VINHAIS,Praia Interior,Água adequada a banhos,Não,Não,Sim,Não,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Não
+8979630010,Carvoeiro,ALGARVE,LAGOA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Sim
+8979630240,Dunas Mar,NORTE,VILA NOVA DE GAIA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não
+9636731640,Moledo (Sul),NORTE,CAMINHA,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não
+8979630846,Montes,TEJO,TOMAR,Praia Interior,Água adequada a banhos,Não,Não,Não,Não,Sim,Não,Sim,Não,Não,Não,Não,Não,Não,Não,Não,Não
+8979630602,Arda/Bico,NORTE,VIANA DO CASTELO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não
+8979630022,Albarquel,ALENTEJO,SETÚBAL,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Sim
+8979630834,Madalena Norte,NORTE,VILA NOVA DE GAIA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não
+8979630832,Cepães,NORTE,ESPOSENDE,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630512,Valadares Norte,NORTE,VILA NOVA DE GAIA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não
+8979630102,Amieira,ALENTEJO,PORTEL,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630588,Olinda,NORTE,VILA DO CONDE,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não
+8979630684,Cavacos,ALGARVE,OLHÃO,Praia Costeira,Água adequada a banhos,Não,Não,Não,Não,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+8979630054,Pedrógão Sul,CENTRO,LEIRIA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Não
+10146368814,Praia Fluvial de Alqueva,ALENTEJO,PORTEL,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630866,Canide Sul,NORTE,VILA NOVA DE GAIA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não
+8979629870,Cova Redonda,ALGARVE,LAGOA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não,Não,Sim
+8979630570,Adraga,TEJO,SINTRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Sim
+8979630074,Atlântico,NORTE,VILA NOVA DE GAIA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não
+8979630840,Suave Mar (Norte),NORTE,ESPOSENDE,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Sim,Não,Não
+8979630398,Polvoeira,TEJO,ALCOBAÇA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Não,Não,Sim
+8979630000,Mar e Sol (Vila do Conde),NORTE,VILA DO CONDE,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não
+8979630288,Madalena Sul,NORTE,VILA NOVA DE GAIA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não
+8979630414,Ribeira,NORTE,MACEDO DE CAVALEIROS,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979629998,Luzimar,NORTE,VILA DO CONDE,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não
+8979630536,Vale Centeanes,ALGARVE,LAGOA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Sim
+8979629788,Senhora da Ribeira,CENTRO,SANTA COMBA DÃO,Praia Interior,Água adequada a banhos,Não,Não,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+8979630526,Vale do Lobo,ALGARVE,LOULÉ,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Não,Não,Sim
+8979629888,Canide Norte,NORTE,VILA NOVA DE GAIA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não
+8979630392,São Pedro de Maceda,CENTRO,OVAR,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não
+8979630508,Armona - Mar,ALGARVE,OLHÃO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não
+9636731638,Moledo (Mergulho e Vapor),NORTE,CAMINHA,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não
+10146368832,Ínsua,NORTE,VIANA DO CASTELO,Praia Costeira,Água adequada a banhos,Sim,Não,Não,Não,Sim,Sim,Sim,Não,Não,Sim,Sim,Não,Não,Não,Não,Não
+8979630532,Castanheira ou Lago Azul,TEJO,FERREIRA DO ZÊZERE,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Não
+8979630806,Rabaçal,NORTE,VALPAÇOS,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Sim,Sim,Não,Não,Não
+8979630870,Santa Clara,ALENTEJO,ODEMIRA,Praia Interior,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Não,Não,Sim,Sim,Não,Não,Não,Não,Não
+8979630372,Atlântica,ALENTEJO,GRÂNDOLA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não
+8979630646,Vila Chã,NORTE,VILA DO CONDE,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não,Não
+8979629912,Trabulo,CENTRO,SÁTÃO,Praia Interior,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Não,Sim,Não,Sim,Não,Não,Não,Não,Não,Não
+8979630650,Torreira,CENTRO,MURTOSA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979629890,Sereia da Costa Verde,NORTE,VILA NOVA DE GAIA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não
+9636731684,Faro - Mar Nascente,ALGARVE,FARO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Não
+8979630498,Maçãs,TEJO,SINTRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Sim
+8979630748,Armona - Ria,ALGARVE,OLHÃO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Sim,Não,Não,Não,Não,Não
+8979630336,Tróia - Bico das Lulas,ALENTEJO,GRÂNDOLA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não
+8979630480,Lavadores,NORTE,VILA NOVA DE GAIA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Sim,Não,Sim,Não,Não,Não,Não,Não
+8979630120,Figueirinha,ALENTEJO,SETÚBAL,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim
+8979630654,Mindelo,NORTE,VILA DO CONDE,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630376,Devesa,NORTE,SABUGAL,Praia Interior,Água adequada a banhos,Sim,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não
+11700071942,Praia Velha dos Pescadores - Esmoriz,CENTRO,OVAR,Praia Costeira,Água adequada a banhos,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não
+8979629910,Aguda,NORTE,VILA NOVA DE GAIA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Sim,Sim,Sim,Não,Não,Não
+8979630348,Esmoriz,CENTRO,OVAR,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não
+8979630744,Magoito,TEJO,SINTRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Sim,Não,Sim
+8979630114,Barra,CENTRO,ÍLHAVO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não
+8979630294,Barril,ALGARVE,TAVIRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630638,Lota,ALGARVE,VILA REAL DE SANTO ANTÓNIO,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630084,Camarinhas,ALENTEJO,GRÂNDOLA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Sim,Não,Não
+8979630750,Congida,NORTE,FREIXO DE ESPADA À CINTA,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979629942,Vila Nova-Serra,TEJO,TOMAR,Praia Interior,Água adequada a banhos,Não,Não,Não,Não,Sim,Não,Sim,Não,Não,Não,Não,Não,Não,Não,Não,Não
+9636731650,Apúlia (Couve Sul),NORTE,ESPOSENDE,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não
+11176112002,Praia do Lago,ALENTEJO,MOURA,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Sim,Não,Sim,Sim,Sim,Não,Sim,Não
+8979630174,Areão,CENTRO,VAGOS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Não,Não
+8979630476,S. Pedro de Moel,CENTRO,MARINHA GRANDE,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Sim
+8979630620,Francelos,NORTE,VILA NOVA DE GAIA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não
+8979630624,Vagueira Norte,CENTRO,VAGOS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Não
+8979630688,Ponte da Ranca,NORTE,VINHAIS,Praia Interior,Água adequada a banhos,Não,Não,Não,Não,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não,Não,Não,Não
+8979629948,Ilha de Tavira - Mar,ALGARVE,TAVIRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não
+8979629926,Légua,TEJO,ALCOBAÇA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Sim
+8979629852,Francemar,NORTE,VILA NOVA DE GAIA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não
+8979630076,Sindicato,NORTE,VILA NOVA DE GAIA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não
+8979630204,Paredes de Vitória Norte,TEJO,ALCOBAÇA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim
+8979630236,Clube Náutico de Avis,TEJO,AVIS,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Sim,Não
+8979629834,Miramar Norte,NORTE,VILA NOVA DE GAIA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Não,Não
+9636731696,Monte Gordo,ALGARVE,VILA REAL DE SANTO ANTÓNIO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+9662972230,S. Martinho do Porto Sul,TEJO,ALCOBAÇA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não
+9636731648,Apúlia (Couve Centro),NORTE,ESPOSENDE,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630324,Albufeira do Caldeirão,CENTRO,GUARDA,Praia Interior,Água adequada a banhos,Não,Não,Não,Não,Sim,Sim,Não,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+11700071944,Santa Marinha - Cortegaça Sul,CENTRO,OVAR,Praia Costeira,Água adequada a banhos,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não
+8979630586,N. Sª da Guia,NORTE,VILA DO CONDE,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630318,Apúlia (Couve Norte),NORTE,ESPOSENDE,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não
+8979630026,Pedras Negras,CENTRO,MARINHA GRANDE,Praia Costeira,Água adequada a banhos,Sim,Sim,Não,Não,Não,Não,Não,Não,Não,Sim,Não,Não,Não,Não,Não,Sim
+8979630342,Salgueiros,NORTE,VILA NOVA DE GAIA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não
+11700071940,Furadouro Sul,CENTRO,OVAR,Praia Costeira,Água adequada a banhos,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não
+8979630018,Ponte Soeira,NORTE,VINHAIS,Praia Interior,Água adequada a banhos,Não,Não,Sim,Não,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+8979629984,Praia Velha,CENTRO,MARINHA GRANDE,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Não,Sim
+8979630220,Ofir,NORTE,ESPOSENDE,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não
+8979630506,Alqueidão,TEJO,TOMAR,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Não,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Não
+10686881420,Norte (Nazaré),TEJO,NAZARÉ,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Sim,Não,Não
+8979630272,Cabanas Poente,ALGARVE,TAVIRA,Praia Costeira,Água adequada a banhos,Sim,Não,Não,Não,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não,Não,Não
+8979629944,Monte Gordo Nascente,ALGARVE,VILA REAL DE SANTO ANTÓNIO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+10146368830,Badamalos,NORTE,SABUGAL,Praia Interior,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Não
+8979630270,Cabanas - Mar,ALGARVE,TAVIRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não
+10174971494,Faro - Mar Central,ALGARVE,FARO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Não
+9636731674,Paredes de Vitória Sul,TEJO,ALCOBAÇA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Sim
+8979630488,Terra Estreita,ALGARVE,TAVIRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não
+8979630662,Relva da Reboleira,TEJO,MANTEIGAS,Praia Interior,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Não
+9636731656,Suave Mar (Centro),NORTE,ESPOSENDE,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não
+8979630772,Barcos/Armação de Pêra Nascente,ALGARVE,SILVES,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não
+8979630538,Costa Nova,CENTRO,ÍLHAVO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não
+8979629778,Culatra - Mar,ALGARVE,FARO,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Não,Não
+8979630412,Faro - Mar Poente,ALGARVE,FARO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Não
+9632354754,Terra Nova,NORTE,VILA DO CONDE,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não
+8979629828,Ramalha,NORTE,ESPOSENDE,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Não
+8979630622,Vagueira,CENTRO,VAGOS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não
+8979630014,Pedra Alta (Castelo de Neiva),NORTE,VIANA DO CASTELO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Sim,Não,Não,Não,Não,Não
+8979629920,Moledo (Norte),NORTE,CAMINHA,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Sim,Não,Não
+8979630020,Alagoa - Altura,ALGARVE,CASTRO MARIM,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630584,Ladeira,NORTE,VILA DO CONDE,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não
+8979629996,Caxinas,NORTE,VILA DO CONDE,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Sim,Não
+8979630558,Valhelhas,TEJO,GUARDA,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não
+8979630068,Praia Grande - Poente,ALGARVE,SILVES,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630340,Estrela-do-Mar,NORTE,VILA NOVA DE GAIA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não
+8979630644,São Paio/Moreiró,NORTE,VILA DO CONDE,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não
+8979630362,Tróia - Galé,ALENTEJO,GRÂNDOLA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Sim,Não,Não
+8979629962,Mar e Sol (Vila Nova de Gaia),NORTE,VILA NOVA DE GAIA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Sim,Não,Não,Não,Sim,Não
+8979630820,Videmonte - Quinta da Taberna,CENTRO,GUARDA,Praia Interior,Água adequada a banhos,Não,Não,Não,Não,Sim,Sim,Não,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+8979630804,São Jacinto,CENTRO,AVEIRO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não
+8979629854,Fraga da Pegada,NORTE,MACEDO DE CAVALEIROS,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+10686881414,Bairrada/Bairradinha,TEJO,FERREIRA DO ZÊZERE,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não,Não,Não
+8979629864,Ínsua - Vale das Éguas,NORTE,SABUGAL,Praia Interior,Água adequada a banhos,Não,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não,Não,Não,Não
+8979630582,Forno,NORTE,VILA DO CONDE,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não
+8979629792,Paçô/Carreço,NORTE,VIANA DO CASTELO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Não,Não
+8979630408,Jardim de Oudinot,CENTRO,ÍLHAVO,Praia Interior,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+10686881404,Ucha,CENTRO,SÃO PEDRO DO SUL,Praia Interior,Água adequada a banhos,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não
+8979630396,Cortegaça - Parque Campismo,CENTRO,OVAR,Praia Costeira,Água adequada a banhos,Sim,Não,Não,Não,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Sim,Não,Não
+8979630814,Grande Sul,TEJO,SINTRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Sim,Não,Sim
+8979630540,Costa Nova Sul,CENTRO,ÍLHAVO,Praia Costeira,Água adequada a banhos,Sim,Não,Não,Não,Não,Não,Não,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+8979629922,Labruge,NORTE,VILA DO CONDE,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não
+10146368842,Azenhas do Mar,TEJO,SINTRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Sim
+8979630528,S. Martinho do Porto Norte,TEJO,ALCOBAÇA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630320,Apúlia Norte,NORTE,ESPOSENDE,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Não,Não,Sim,Sim,Não,Não,Não,Não,Não,Não
+8979630552,Labrego,CENTRO,VAGOS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Sim,Não,Não
+8979630130,Vale do Olival,ALGARVE,LAGOA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Sim
+8979630860,Nazaré Norte,TEJO,NAZARÉ,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim
+8979630640,Congreira,NORTE,VILA DO CONDE,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+8979630516,Foz do Minho,NORTE,CAMINHA,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630384,Salgado,TEJO,NAZARÉ,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Não,Sim,Não,Não
+8979630462,Vila Praia de Âncora,NORTE,CAMINHA,Praia Costeira,Água desaconselhada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não
+8979630520,Pontilhão da Valeta,NORTE,ARCOS DE VALDEVEZ,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Não
+8979630666,Granja,NORTE,VILA NOVA DE GAIA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não
+8979629876,Malhão Sul,ALENTEJO,ODEMIRA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Não,Não,Sim,Sim,Não,Não,Sim,Não,Sim
+8979630448,Furnas Mar,ALENTEJO,ODEMIRA,Praia Interior,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim
+8979630364,Franquia,ALENTEJO,ODEMIRA,Praia Interior,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não
+8979630794,Furnas Rio,ALENTEJO,ODEMIRA,Praia Interior,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não
+8979629874,Malhão Norte,ALENTEJO,ODEMIRA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Sim,Não,Sim
+8979630608,Farol,ALENTEJO,ODEMIRA,Praia Interior,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Não,Sim
+8979630428,Tapada Grande,ALENTEJO,MÉRTOLA,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630566,Fragosa,NORTE,PÓVOA DE VARZIM,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não
+8979630298,Rua 37,NORTE,ESPINHO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não
+8979630188,Evaristo,ALGARVE,ALBUFEIRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Sim
+9636731676,Carcavelos Poente,TEJO,CASCAIS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não
+8979630790,Redonda,NORTE,PÓVOA DE VARZIM,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não
+8979630816,Arrifana,ALGARVE,ALJEZUR,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Sim,Não,Não,Sim,Não,Sim
+9636731688,Forte de São João,ALGARVE,ALBUFEIRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim
+8979629954,Azul (Póvoa de Varzim),NORTE,PÓVOA DE VARZIM,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não
+8979630700,Inatel - Albufeira,ALGARVE,ALBUFEIRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim
+8979630756,Pontes,NORTE,PÓVOA DE VARZIM,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não,Não
+8979630578,Alemães,ALGARVE,ALBUFEIRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim
+9636731652,Matosinhos (Centro),NORTE,MATOSINHOS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não,Não,Não
+8979630382,Aveiros,ALGARVE,ALBUFEIRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Sim
+9636731654,Matosinhos (Sul),NORTE,MATOSINHOS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Sim,Sim,Não,Não,Não
+8979630726,Olhos de Água,ALGARVE,ALBUFEIRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim
+8979629900,Moitas,TEJO,CASCAIS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não
+8979630458,Poça,TEJO,CASCAIS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Sim,Não,Não
+8979630378,Conceição,TEJO,CASCAIS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Sim
+8979630276,Baía,NORTE,ESPINHO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não
+8979630366,Garrão - Poente,ALGARVE,LOULÉ,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+9636731686,Quarteira Poente,ALGARVE,LOULÉ,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não
+8979629808,Forte Novo,ALGARVE,LOULÉ,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não,Não
+8979630468,Santo Amaro,TEJO,OEIRAS,Praia Interior,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não
+8979630200,Batata,ALGARVE,LAGOS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim
+8979630714,Monte Clérigo,ALGARVE,ALJEZUR,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim
+8979629856,Luz (Lagos),ALGARVE,LAGOS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim
+8979630422,Frente Azul Sul (Seca e Costa Verde),NORTE,ESPINHO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não
+8979630478,Caxias,TEJO,OEIRAS,Praia Interior,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+8979630354,Parede,TEJO,CASCAIS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não
+8979629936,Lagoa II,NORTE,PÓVOA DE VARZIM,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não
+8979629814,Paimó/Aguçadoura,NORTE,PÓVOA DE VARZIM,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não
+8979630564,Tamariz,TEJO,CASCAIS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não
+8979629784,Amoreira-Rio,ALGARVE,ALJEZUR,Praia Interior,Água adequada a banhos,Não,Não,Não,Não,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não,Não,Não,Não
+8979630600,Duquesa,TEJO,CASCAIS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Sim
+8979629804,Santo André,NORTE,PÓVOA DE VARZIM,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Não,Não
+8979630754,Lagoa,NORTE,PÓVOA DE VARZIM,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não
+8979630400,Falésia Açoteias,ALGARVE,ALBUFEIRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Sim
+11797921516,Guincho Norte,TEJO,CASCAIS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Sim
+8979629858,Vilamoura,ALGARVE,LOULÉ,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979629938,Verde,NORTE,PÓVOA DE VARZIM,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630144,Azarujinha,TEJO,CASCAIS,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não,Sim,Não,Sim
+8979630214,Bordeira,ALGARVE,ALJEZUR,Praia Costeira,Água adequada a banhos,Sim,Não,Não,Não,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Sim,Não,Não
+8979630232,Amado,ALGARVE,ALJEZUR,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Sim,Não,Sim
+8979629896,Paço d'Arcos,TEJO,OEIRAS,Praia Interior,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+8979630788,Loulé,NORTE,PÓVOA DE VARZIM,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não
+8979630702,Pescadores,ALGARVE,ALBUFEIRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim
+8979629802,Quião,NORTE,PÓVOA DE VARZIM,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não
+8979629830,Codixeira,NORTE,PÓVOA DE VARZIM,Praia Costeira,Água adequada a banhos,Não,Não,Não,Não,Sim,Sim,Não,Não,Não,Não,Não,Não,Não,Sim,Não,Não
+8979630572,Matosinhos (Norte),NORTE,MATOSINHOS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não,Não,Não
+8979629956,Carvalhido,NORTE,PÓVOA DE VARZIM,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não
+8979630328,Vale Figueiras,ALGARVE,ALJEZUR,Praia Costeira,Água adequada a banhos,Não,Não,Não,Não,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Sim,Não,Sim
+8979630404,Paramos,NORTE,ESPINHO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Não,Não
+8979629772,Vale dos Homens,ALGARVE,ALJEZUR,Praia Costeira,Água adequada a banhos,Não,Não,Não,Não,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Sim,Não,Sim
+8979630464,Coelha,ALGARVE,ALBUFEIRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Sim
+8979630250,Crismina,TEJO,CASCAIS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Sim,Não,Sim
+8979629924,Rainha (Cascais),TEJO,CASCAIS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não,Sim
+8979630330,Meia Praia,ALGARVE,LAGOS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não
+9636731642,Frente Azul Centro (Azul Norte e Azul Sul),NORTE,ESPINHO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não
+8979630534,Santa Eulália,ALGARVE,ALBUFEIRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim
+8979630636,Odeceixe - Mar,ALGARVE,ALJEZUR,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Sim,Não,Sim
+8979629800,Esteiro,NORTE,PÓVOA DE VARZIM,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não
+8979629932,Lada I,NORTE,PÓVOA DE VARZIM,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não
+8979630698,Guincho Sul,TEJO,CASCAIS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Sim
+8979630360,Porto de Mós,ALGARVE,LAGOS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim
+8979630568,Amoreira - Mar,ALGARVE,ALJEZUR,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Sim
+8979630006,Silvalde,NORTE,ESPINHO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Não
+8979630436,Falésia Alfamar,ALGARVE,ALBUFEIRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Sim
+8979630192,Bitetos,NORTE,MARCO DE CANAVESES,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Sim,Sim,Não,Não,Não
+8979629880,Poço Velho,ALGARVE,ALBUFEIRA,Praia Costeira,Água adequada a banhos,Sim,Não,Não,Não,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não,Não,Sim
+10174971004,Quarteira Central,ALGARVE,LOULÉ,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não
+8979629832,Belharucas,ALGARVE,ALBUFEIRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Sim
+8979629934,Lada II,NORTE,PÓVOA DE VARZIM,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não
+8979629882,Rocha Baixinha - Poente,ALGARVE,ALBUFEIRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Sim
+8979630752,Fragosinho,NORTE,PÓVOA DE VARZIM,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não,Não
+8979629930,Hotel,NORTE,PÓVOA DE VARZIM,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não
+8979630218,Peneco,ALGARVE,ALBUFEIRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Não,Sim
+8979629774,Castelo do Queijo,NORTE,PORTO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+8979630244,Estela,NORTE,PÓVOA DE VARZIM,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Não,Não
+8979630146,"Seca (Marbelo, Pop Norte e Pop Sul)",NORTE,ESPINHO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Não
+8979629958,Salgueira,NORTE,PÓVOA DE VARZIM,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não
+8979630792,Redonda/Leixão,NORTE,PÓVOA DE VARZIM,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não
+8979630036,S. Pedro do Estoril,TEJO,CASCAIS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Sim
+8979629904,Torre,TEJO,OEIRAS,Praia Interior,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Sim
+9636731692,Meia Praia Poente,ALGARVE,LAGOS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não
+8979629894,Oura - Leste,ALGARVE,ALBUFEIRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Sim
+8979630390,Galé - Leste,ALGARVE,ALBUFEIRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim
+8979630472,Carcavelos Nascente,TEJO,CASCAIS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim
+8979629966,Quarteira Nascente,ALGARVE,LOULÉ,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não
+8979630500,Arrifes,ALGARVE,ALBUFEIRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Sim
+8979630718,Avencas,TEJO,CASCAIS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Sim
+9632354738,Ponte da Barca,NORTE,PONTE DA BARCA,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Sim,Sim,Não,Não,Não
+8979630850,Maria Luísa,ALGARVE,ALBUFEIRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim
+8979629928,Beijinhos,NORTE,PÓVOA DE VARZIM,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não
+8979630304,Camilo,ALGARVE,LAGOS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Sim,Não,Sim
+11700071934,Praia de Oriola,ALENTEJO,PORTEL,Praia Interior,Água desaconselhada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não,Não
+8979630778,Algodio ou do Norte,TEJO,MAFRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim
+9636731678,Fonte da Telha Centro,TEJO,ALMADA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Sim,Não,Não
+8979629812,Pego,ALENTEJO,GRÂNDOLA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não
+8979630456,Cascalheira - Secarias,CENTRO,ARGANIL,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630060,Vieirinha - Vale de Figueiros,ALENTEJO,SINES,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Sim,Não,Não
+8979630388,Vale do Mondego,CENTRO,GUARDA,Praia Interior,Água adequada a banhos,Não,Não,Não,Não,Sim,Sim,Não,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+8979630104,Praia do Norte,TEJO,ALMADA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Sim,Não,Não
+9636731680,Fonte da Telha Sul,TEJO,ALMADA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Sim,Não,Não
+8979629990,Pego Fundo,ALGARVE,ALCOUTIM,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não
+8979629866,Foz do Arelho-Lagoa,TEJO,CALDAS DA RAINHA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630004,Carvalhal (Odemira),ALENTEJO,ODEMIRA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim
+8979629964,Foz do Lizandro-Mar,TEJO,MAFRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim
+8979630530,Pomares,CENTRO,ARGANIL,Praia Interior,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não
+8979630822,São Torpes,ALENTEJO,SINES,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não
+8979630098,Porto da Calada,TEJO,MAFRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim
+8979629884,Almograve Norte,ALENTEJO,ODEMIRA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Sim,Não,Sim
+10146368824,Rebolim,CENTRO,COIMBRA,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não
+10686881400,Albergaria dos Fusos,ALENTEJO,CUBA,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Sim,Não
+8979630616,Alteirinhos,ALENTEJO,ODEMIRA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Sim,Não,Não,Sim,Não,Sim
+8979630510,Sereia,TEJO,ALMADA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não
+8979630112,Mourão,ALENTEJO,MOURÃO,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630374,S. Lourenço,TEJO,MAFRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim
+8979630046,Praia do Mar,TEJO,CALDAS DA RAINHA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim
+8979630862,Poço do Lagar,CENTRO,SEIA,Praia Interior,Água adequada a banhos,Não,Não,Não,Não,Sim,Sim,Não,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+10146368820,Peneda Talhada,CENTRO,ARGANIL,Praia Interior,Água adequada a banhos,Não,Não,Não,Não,Sim,Sim,Não,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+8979629824,Grande de Porto Covo,ALENTEJO,SINES,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Sim
+8979630344,Morgavel,ALENTEJO,SINES,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Sim,Não,Não
+9632354760,Cinco Reis,ALENTEJO,BEJA,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630452,Praia Fluvial de Monsaraz,ALENTEJO,REGUENGOS DE MONSARAZ,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+10146368812,Área Recreativa e de Lazer das Azenhas D'El Rei,ALENTEJO,ALANDROAL,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630138,Quinta do Barco,CENTRO,SEVER DO VOUGA,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não
+8979630496,Ouro,ALENTEJO,SESIMBRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim
+8979630322,Palheiros e Zorro,CENTRO,COIMBRA,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não
+8979629822,Sandomil,CENTRO,SEIA,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não
+11700071936,Folques,CENTRO,ARGANIL,Praia Interior,Água adequada a banhos,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não
+8979630868,Vale de Janelas,TEJO,ÓBIDOS,Praia Costeira,Água adequada a banhos,Sim,Não,Não,Não,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Sim,Não,Sim
+8979630278,Louçaínha,CENTRO,PENELA,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630606,Melides,ALENTEJO,GRÂNDOLA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não
+8979630092,Bom Sucesso,TEJO,ÓBIDOS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630694,Comporta,ALENTEJO,GRÂNDOLA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não
+8979630746,Foz Lizandro - Rio,TEJO,MAFRA,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+8979630826,Praia Nova,TEJO,ALMADA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não
+8979630262,Côja,CENTRO,ARGANIL,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630184,Aldeia Viçosa,CENTRO,GUARDA,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não
+8979630774,Vieira,CENTRO,MARINHA GRANDE,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Sim,Sim,Sim,Não,Não
+8979630818,Rainha (Almada),TEJO,ALMADA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não
+8979630128,Vimieiro,CENTRO,PENACOVA,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não
+8979630186,Aberta Nova,ALENTEJO,GRÂNDOLA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não
+8979630108,Pontemieiro,CENTRO,VALE DE CAMBRA,Praia Interior,Água adequada a banhos,Não,Não,Sim,Não,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+8979629960,Ilha do Pessegueiro,ALENTEJO,SINES,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Sim,Não,Sim
+10146368818,Moinho de Alva,CENTRO,ARGANIL,Praia Interior,Água adequada a banhos,Não,Não,Não,Não,Sim,Sim,Não,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+8979630156,D. Ana,ALGARVE,LAGOS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Sim,Não,Sim
+8979630326,Carvalhal,ALENTEJO,GRÂNDOLA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não
+8979630234,Reconquinho,CENTRO,PENACOVA,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não
+8979630260,Coxos,TEJO,MAFRA,Praia Costeira,Água adequada a banhos,Não,Não,Não,Não,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Sim,Não,Sim
+8979630708,Rei do Cortiço,TEJO,ÓBIDOS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Sim,Não,Sim
+8979630078,Ribeira ou dos Pescadores,TEJO,MAFRA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Sim
+8979629886,Almograve Sul,ALENTEJO,ODEMIRA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Não,Não,Sim,Sim,Não,Não,Sim,Não,Sim
+8979630612,Benfeita,CENTRO,ARGANIL,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Sim,Não,Não,Não,Não
+9632354758,Ronqueira,CENTRO,TÁBUA,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630594,Agroal (Arganil),CENTRO,ARGANIL,Praia Interior,Água adequada a banhos,Não,Não,Não,Não,Sim,Sim,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não
+8979630668,Mamoa,CENTRO,SANTA MARIA DA FEIRA,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630524,Burgães - Rio Caima,CENTRO,VALE DE CAMBRA,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não
+8979630044,Galé - Fontaínhas,ALENTEJO,GRÂNDOLA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não
+8979630664,Castelo (Almada),TEJO,ALMADA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Sim,Não,Não
+8979630758,Foz D'Égua,CENTRO,ARGANIL,Praia Interior,Água adequada a banhos,Não,Não,Não,Não,Sim,Sim,Não,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+8979630504,Ribeira de Ilhas,TEJO,MAFRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim
+10146368826,Urtigal,CENTRO,ARGANIL,Praia Interior,Água adequada a banhos,Não,Não,Não,Não,Sim,Sim,Não,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+8979630764,Galapinhos,ALENTEJO,SETÚBAL,Praia Costeira,Água adequada a banhos,Sim,Não,Não,Não,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não,Não,Não,Sim
+8979630830,Baleia ou do Sul,TEJO,MAFRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Sim
+8979630844,Fonte da Telha Norte,TEJO,ALMADA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Sim,Não,Não
+8979630194,Paço do Mato,CENTRO,VALE DE CAMBRA,Praia Interior,Água adequada a banhos,Não,Não,Sim,Não,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+8979630554,Galapos,ALENTEJO,SETÚBAL,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não,Sim
+8979629986,Vila Cova à Coelheira,CENTRO,SEIA,Praia Interior,Água adequada a banhos,Não,Não,Sim,Não,Sim,Sim,Não,Sim,Não,Sim,Não,Não,Não,Não,Não,Não
+8979630454,Califórnia,ALENTEJO,SESIMBRA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Sim
+8979630736,Portinho da Arrábida,ALENTEJO,SETÚBAL,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Sim
+8979630162,Piódão,CENTRO,ARGANIL,Praia Interior,Água adequada a banhos,Não,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+8979630106,Praia S. João da Caparica,TEJO,ALMADA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não
+8979630824,Nova Praia,TEJO,ALMADA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Sim,Não,Não
+8979630180,Zambujeira do Mar,ALENTEJO,ODEMIRA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Sim,Sim,Sim,Não,Sim
+8979629844,Fernandaires,TEJO,VILA DE REI,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630686,Poço da Cruz,CENTRO,MIRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não
+8979630300,Senhora da Graça,CENTRO,LOUSÃ,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não
+8979630296,Penedo Furado,TEJO,VILA DE REI,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+8979630216,Castelo Novo,TEJO,FUNDÃO,Praia Interior,Água adequada a banhos,Não,Não,Sim,Não,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+8979630542,Albufeira da Meimôa,TEJO,PENAMACOR,Praia Interior,Água adequada a banhos,Não,Sim,Sim,Não,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Não
+11700071938,Barrinha de Mira,CENTRO,MIRA,Praia Interior,Água adequada a banhos,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não
+8979630812,Ribeira Grande,TEJO,SERTÃ,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não
+8979630118,Canaveias,CENTRO,GÓIS,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não
+8979630466,Malhadal,TEJO,PROENÇA-A-NOVA,Praia Interior,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Não
+8979630632,Ana de Aviz,TEJO,FIGUEIRÓ DOS VINHOS,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Não
+8979629850,Cabril,TEJO,PEDRÓGÃO GRANDE,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Não
+8979630110,Peneda/Pêgo Escuro,CENTRO,GÓIS,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630522,Unhais da Serra,TEJO,COVILHÃ,Praia Interior,Água adequada a banhos,Não,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Não
+8979630124,Janeiro de Baixo,TEJO,PAMPILHOSA DA SERRA,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não
+8979629786,Santa Luzia,TEJO,PAMPILHOSA DA SERRA,Praia Interior,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não
+8979630248,S. Sebastião da Feira,CENTRO,OLIVEIRA DO HOSPITAL,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não
+8979630440,Almaceda,TEJO,CASTELO BRANCO,Praia Interior,Água adequada a banhos,Não,Não,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não,Não
+10686881422,Foz do Cobrão,TEJO,VILA VELHA DE RÓDÃO,Praia Interior,Água adequada a banhos,Não,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+8979630842,Colmeal,CENTRO,GÓIS,Praia Interior,Água adequada a banhos,Não,Não,Não,Não,Sim,Sim,Não,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+10146368822,Ponte do Sótão,CENTRO,GÓIS,Praia Interior,Água adequada a banhos,Não,Não,Sim,Não,Sim,Sim,Não,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+8979629914,Salgados,ALGARVE,ALBUFEIRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não
+8979630410,Avô,CENTRO,OLIVEIRA DO HOSPITAL,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não
+8979630864,Mosteiro,TEJO,PEDRÓGÃO GRANDE,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+8979630836,Mira,CENTRO,MIRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não
+8979630266,Alvares,TEJO,GÓIS,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Sim,Não,Não,Não,Não
+10146368846,Troviscal,TEJO,SERTÃ,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não
+8979630122,Sete Fontes,CENTRO,CANTANHEDE,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não,Não
+8979630430,Pessegueiro,TEJO,PAMPILHOSA DA SERRA,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630682,Cabreira,CENTRO,GÓIS,Praia Interior,Água adequada a banhos,Não,Não,Não,Não,Sim,Sim,Não,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+8979630444,Cabedelo,NORTE,VIANA DO CASTELO,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não
+8979629846,Açude do Pinto,TEJO,OLEIROS,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não
+8979629848,Pego das Cancelas,TEJO,VILA DE REI,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+8979630710,Carvoeiro (Mação),TEJO,MAÇÃO,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979629806,Palheirão,CENTRO,CANTANHEDE,Praia Costeira,Água adequada a banhos,Não,Não,Não,Não,Sim,Sim,Não,Não,Não,Sim,Não,Não,Não,Sim,Não,Não
+11294108614,Mira Sul,CENTRO,MIRA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Sim,Não,Não
+8979630038,Alvôco das Várzeas,CENTRO,OLIVEIRA DO HOSPITAL,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não
+8979630048,Senhora da Piedade,CENTRO,LOUSÃ,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não
+8979630042,Fróia,TEJO,PROENÇA-A-NOVA,Praia Interior,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Sim
+8979630614,Zaboeira,TEJO,VILA DE REI,Praia Interior,Água adequada a banhos,Sim,Não,Não,Não,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+8979629878,Cardigos,TEJO,MAÇÃO,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Não
+8979630724,Amorosa-Chafé Sul,NORTE,VIANA DO CASTELO,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Não,Sim,Não,Sim,Não,Não,Não,Não,Não
+8979630356,Mega Fundeira,TEJO,PEDRÓGÃO GRANDE,Praia Interior,Água adequada a banhos,Não,Não,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Não
+8979630858,Sesmo,TEJO,CASTELO BRANCO,Praia Interior,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não,Não
+10146368840,Aldeia Ruiva,TEJO,PROENÇA-A-NOVA,Praia Interior,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Não
+8979629976,S. Gião,CENTRO,OLIVEIRA DO HOSPITAL,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não
+8979630370,Cambas,TEJO,OLEIROS,Praia Interior,Água adequada a banhos,Não,Não,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Não
+8979630722,Amorosa-Chafé,NORTE,VIANA DO CASTELO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não
+8979630050,Bogueira,CENTRO,LOUSÃ,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630782,Álvaro,TEJO,OLEIROS,Praia Interior,Água adequada a banhos,Não,Não,Sim,Não,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Não
+8979630182,Fragas de S. Simão,TEJO,FIGUEIRÓ DOS VINHOS,Praia Interior,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Não
+8979630264,Poço Corga,TEJO,CASTANHEIRA DE PÊRA,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Não,Sim,Não
+8979630494,Olhos da Fervença,CENTRO,CANTANHEDE,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+9632354752,Cabedelo/Luziamar,NORTE,VIANA DO CASTELO,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Sim,Não,Não
+8979630196,Tocha,CENTRO,CANTANHEDE,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não
+8979630230,Ançã,CENTRO,CANTANHEDE,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+8979630154,Bostelim,TEJO,VILA DE REI,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630028,Pampilhosa da Serra,TEJO,PAMPILHOSA DA SERRA,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+9724180146,Barreirinha,MADEIRA,FUNCHAL,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não
+11700071946,Porto bay,MADEIRA,FUNCHAL,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+9724180216,Roca Mar,MADEIRA,SANTA CRUZ,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+9724180202,Ribeira Brava,MADEIRA,RIBEIRA BRAVA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Sim
+9724180170,Lugar de Baixo,MADEIRA,PONTA DO SOL,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+9724180128,Fajã das Bebras,MADEIRA,CÂMARA DE LOBOS,Praia Costeira,Água adequada a banhos,Não,Não,Não,Não,Não,Não,Sim,Não,Não,Não,Não,Não,Não,Não,Não,Sim
+9724180130,Fajã dos Asnos,MADEIRA,CÂMARA DE LOBOS,Praia Costeira,Água adequada a banhos,Não,Não,Não,Não,Não,Não,Sim,Não,Não,Não,Não,Não,Não,Não,Não,Sim
+9724180186,Porto Santo-Cabeço da Ponta,MADEIRA,PORTO SANTO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não
+9724180124,Complexo Balnear das Salinas,MADEIRA,CÂMARA DE LOBOS,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+8979630056,Lomba,NORTE,GONDOMAR,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Não
+9724180166,Anjos-Ponta do Sol,MADEIRA,PONTA DO SOL,Praia Costeira,Água adequada a banhos,Não,Não,Não,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não,Não
+9724180132,Lido-Complexo Balnear,MADEIRA,FUNCHAL,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+9724180204,Ponta Delgada,MADEIRA,SÃO VICENTE,Praia Costeira,Água adequada a banhos,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+9724180116,Portinho,MADEIRA,CALHETA,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Sim,Não,Não
+10146368848,Gorgulho,MADEIRA,FUNCHAL,Praia Costeira,Água adequada a banhos,Não,Não,Não,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Não
+9724180136,Complexo Balnear Ponta Gorda-Poças do Governador,MADEIRA,FUNCHAL,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+9724180222,Calhau das Gordas,MADEIRA,SANTA CRUZ,Praia Costeira,Água adequada a banhos,Não,Não,Não,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+9724180224,Ribeira do Faial,MADEIRA,SANTANA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não
+9724180198,Calhau da Lapa,MADEIRA,RIBEIRA BRAVA,Praia Costeira,Água adequada a banhos,Não,Não,Não,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não,Não,Sim
+9724180154,Maiata,MADEIRA,MACHICO,Praia Costeira,Água adequada a banhos,Não,Não,Não,Não,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Sim,Não,Não
+9724180180,Porto Santo-Ribeiro Salgado,MADEIRA,PORTO SANTO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não
+9724180178,Clube Naval do Seixal,MADEIRA,PORTO MONIZ,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+9724180126,Vigário,MADEIRA,CÂMARA DE LOBOS,Praia Costeira,Água adequada a banhos,Sim,Não,Não,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Não
+9724180208,Galo Mar,MADEIRA,SANTA CRUZ,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+11176112010,Vida Mar,MADEIRA,FUNCHAL,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+9724180144,Areeiro,MADEIRA,FUNCHAL,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+9724180174,Laje,MADEIRA,PORTO MONIZ,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Sim,Não,Não
+9724180176,Porto Moniz,MADEIRA,PORTO MONIZ,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não
+10686881406,Lido-Poente,MADEIRA,FUNCHAL,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Não
+9724180194,Porto Santo-Penedo,MADEIRA,PORTO SANTO,Praia Costeira,Água adequada a banhos,Não,Não,Não,Não,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não,Não
+10146368850,Porto Santo - Pedras Pretas,MADEIRA,PORTO SANTO,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+9724180218,Boaventura,MADEIRA,SANTA CRUZ,Praia Costeira,Água adequada a banhos,Não,Não,Não,Não,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+9724180158,Alagoa,MADEIRA,MACHICO,Praia Costeira,Água adequada a banhos,Não,Não,Não,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Sim,Não,Sim
+9724180118,Serra de Água,MADEIRA,CALHETA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+9724180140,Praia Nova,MADEIRA,FUNCHAL,Praia Costeira,Água adequada a banhos,Não,Não,Não,Não,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Não
+9724180212,Palmeiras,MADEIRA,SANTA CRUZ,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não
+9724180168,Ponta do Sol,MADEIRA,PONTA DO SOL,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+9724180138,Formosa,MADEIRA,FUNCHAL,Praia Costeira,Água adequada a banhos,Sim,Sim,Não,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+9724180220,Garajau,MADEIRA,SANTA CRUZ,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Sim
+9724180120,Porto,MADEIRA,CALHETA,Praia Costeira,Água adequada a banhos,Não,Não,Não,Não,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+9724180114,Ribeira das Galinhas,MADEIRA,CALHETA,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Sim,Não,Não
+9724180164,Madalena do Mar,MADEIRA,PONTA DO SOL,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Sim
+9724180122,Calheta,MADEIRA,CALHETA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não
+9724180162,Quinta do Lorde,MADEIRA,MACHICO,Praia Costeira,Água adequada a banhos,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não
+9724180190,Porto Santo-Porto das Salemas,MADEIRA,PORTO SANTO,Praia Costeira,Água adequada a banhos,Não,Não,Não,Não,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Não,Não,Sim
+9724180182,Porto Santo-Fontinha,MADEIRA,PORTO SANTO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não
+9724180184,Porto Santo-Lagoa,MADEIRA,PORTO SANTO,Praia Costeira,Água adequada a banhos,Não,Não,Não,Não,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+9724180210,Reis Magos,MADEIRA,SANTA CRUZ,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não
+9724180206,Clube Naval de São Vicente,MADEIRA,SÃO VICENTE,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Sim,Não,Não
+9724180200,Fajã dos Padres,MADEIRA,RIBEIRA BRAVA,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não,Sim
+9724180192,Porto Santo-Calheta,MADEIRA,PORTO SANTO,Praia Costeira,Água adequada a banhos,Não,Não,Não,Não,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Não
+9724180188,Porto Santo-Ribeiro Cochino,MADEIRA,PORTO SANTO,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+9724180142,Clube Naval do Funchal,MADEIRA,FUNCHAL,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não
+9724180148,Poças do Gomes-Doca do Cavacas,MADEIRA,FUNCHAL,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+9724180214,São Fernando,MADEIRA,SANTA CRUZ,Praia Costeira,Água adequada a banhos,Não,Não,Não,Não,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+9724180172,Porto do Seixal,MADEIRA,PORTO MONIZ,Praia Costeira,Água adequada a banhos,Não,Não,Não,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+9724180156,S. Roque,MADEIRA,MACHICO,Praia Costeira,Água adequada a banhos,Sim,Não,Não,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Sim,Não,Não,Não,Não
+9724180134,Santiago,MADEIRA,FUNCHAL,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Não
+11176112008,Clube Turismo,MADEIRA,FUNCHAL,Praia Costeira,Água adequada a banhos,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+9724180042,Portinho do Faial Da Terra,AÇORES,POVOAÇÃO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não
+8979630828,Praia Fluvial Arq. Albino Mendo,NORTE,MIRANDELA,Praia Interior,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+10146368836,Ponte do Bico,NORTE,BRAGA,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979629842,Quintas,NORTE,MIRANDELA,Praia Interior,Água adequada a banhos,Não,Não,Sim,Não,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não,Não,Não
+8979630514,Merelim S. Paio,NORTE,BRAGA,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Não,Não,Não,Não
+8979630368,Adaúfe,NORTE,BRAGA,Praia Interior,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979630446,Vale Juncal,NORTE,MIRANDELA,Praia Interior,Água adequada a banhos,Não,Não,Sim,Não,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não,Não,Não
+9724180020,Pocinho,AÇORES,MADALENA,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+9724179968,Baía do Refugo,AÇORES,ANGRA DO HEROÍSMO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+9724180092,Poça dos Frades,AÇORES,VELAS,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Sim,Sim,Sim,Não,Não,Sim,Sim,Não,Não,Não,Não,Não,Não
+9724179980,Varadouro,AÇORES,HORTA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não
+9724180100,Anjos,AÇORES,VILA DO PORTO,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+9724180064,Prainha (Praia da Vitória),AÇORES,PRAIA DA VITÓRIA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Não,Não
+9724179966,Silveira,AÇORES,ANGRA DO HEROÍSMO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não
+9724180066,Calhetas,AÇORES,RIBEIRA GRANDE,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Não,Não
+9724180060,Escaleiras,AÇORES,PRAIA DA VITÓRIA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Não,Sim
+9724180008,Santa Cruz das Ribeiras,AÇORES,LAJES DO PICO,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+9724179996,Fajã Grande,AÇORES,LAJES DAS FLORES,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Não
+9724180082,Santa Cruz das Flores,AÇORES,SANTA CRUZ DAS FLORES,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Não,Sim,Sim,Não,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+11176112000,Calhetas da Maia,AÇORES,RIBEIRA GRANDE,Praia Costeira,Água adequada a banhos,Sim,Não,Não,Não,Não,Não,Não,Não,Não,Não,Sim,Não,Não,Não,Não,Não
+9724180024,Cais Mourato,AÇORES,MADALENA,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+9724180074,Piscina do Carapacho,AÇORES,SANTA CRUZ DA GRACIOSA,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Não,Não,Não,Não,Não
+9724180044,Ribeira dos Pelames,AÇORES,POVOAÇÃO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+10146368800,Baixa da Areia,AÇORES,LAGOA,Praia Costeira,Água adequada a banhos,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Sim,Não,Não,Não,Não,Sim
+9724180032,Forno da Cal,AÇORES,PONTA DELGADA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Não,Não
+9724180110,Vinha da Areia,AÇORES,VILA FRANCA DO CAMPO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+9724179992,Piscinas Naturais da Lagoa,AÇORES,LAGOA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+9724180022,Madalena,AÇORES,MADALENA,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+9724180028,Milícias,AÇORES,PONTA DELGADA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não
+9724180102,Prainha de Água d'Alto,AÇORES,VILA FRANCA DO CAMPO,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+10146368802,Caisinho,AÇORES,SÃO ROQUE DO PICO,Praia Costeira,Água adequada a banhos,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não
+9724180096,São Lourenço,AÇORES,VILA DO PORTO,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Não,Não
+9724180106,Água D'Alto,AÇORES,VILA FRANCA DO CAMPO,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+9724180012,Baixas,AÇORES,MADALENA,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+9724180108,Ilhéu de Vila Franca do Campo,AÇORES,VILA FRANCA DO CAMPO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Sim
+10686881394,Porto da Baixa,AÇORES,LAJES DO PICO,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+9724180046,Morro,AÇORES,POVOAÇÃO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não
+9724180036,Pópulo,AÇORES,PONTA DELGADA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Sim,Não,Não
+9724180094,Formosa,AÇORES,VILA DO PORTO,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não
+9724180070,Poças da Ribeira Grande,AÇORES,RIBEIRA GRANDE,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+9724180010,Verdoso,AÇORES,LAJES DO PICO,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+9724180002,Clube Naval Das Lajes,AÇORES,LAJES DO PICO,Praia Costeira,Água adequada a banhos,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Sim,Não
+9724180056,Sargentos,AÇORES,PRAIA DA VITÓRIA,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+9724179990,Conceição,AÇORES,HORTA,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Não,Sim,Sim,Não,Não,Sim,Sim,Não,Não,Não,Não,Não,Sim
+9724180076,Zona Balnear Santa Cruz (Calheta),AÇORES,SANTA CRUZ DA GRACIOSA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não
+9724179972,Salga,AÇORES,ANGRA DO HEROÍSMO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Não,Não
+11176111998,Caminho de Baixo (Santa Bárbara),AÇORES,LAJES DO PICO,Praia Costeira,Água adequada a banhos,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não
+9724180026,Piscina Natural das Portas do Mar,AÇORES,PONTA DELGADA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+10686881396,Prainha do Galeão,AÇORES,MADALENA,Praia Costeira,Água adequada a banhos,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não
+9724179978,Corvo/Areia,AÇORES,CORVO,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Sim,Sim,Sim,Não,Não,Não,Sim,Não,Não,Não,Não,Não,Sim
+9724180006,Manhenha,AÇORES,LAJES DO PICO,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+9724180078,Praia,AÇORES,SANTA CRUZ DA GRACIOSA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Sim,Não,Não
+9724180088,Piscina do Cais,AÇORES,SÃO ROQUE DO PICO,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Não,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+9724179998,Lajes (Maré),AÇORES,LAJES DO PICO,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+10146368808,Poça das Mujas,AÇORES,LAJES DO PICO,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Não,Sim,Não
+9724180000,Calhau,AÇORES,LAJES DO PICO,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+10146368806,Poça Branca,AÇORES,SÃO ROQUE DO PICO,Praia Costeira,Água adequada a banhos,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não
+9724180080,Barro Vermelho,AÇORES,SANTA CRUZ DA GRACIOSA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+9724180030,Poços de São Vicente Ferreira/Capelas,AÇORES,PONTA DELGADA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+9724179994,Caloura,AÇORES,LAGOA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Não,Não
+10146368804,Calheta dos Lagadores,AÇORES,PRAIA DA VITÓRIA,Praia Costeira,Água adequada a banhos,Não,Não,Não,Não,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+9724180058,Praia da Riviera,AÇORES,PRAIA DA VITÓRIA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não
+10686881398,Poceirões,AÇORES,SANTA CRUZ DA GRACIOSA,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Sim,Sim,Não,Não,Sim,Não,Sim,Não,Não,Não,Não,Não,Não
+10146368810,Pontes,AÇORES,LAJES DO PICO,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+9724180004,Fonte,AÇORES,LAJES DO PICO,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+9724179962,Prainha (Angra do Heroísmo),AÇORES,ANGRA DO HEROÍSMO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não,Não
+9724180086,Furna de Santo António,AÇORES,SÃO ROQUE DO PICO,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Não,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+10146368798,Arcos,AÇORES,SÃO ROQUE DO PICO,Praia Costeira,Água adequada a banhos,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não
+9724179988,Castelo Branco,AÇORES,HORTA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Sim
+9724179982,Fajã,AÇORES,HORTA,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Não,Sim,Sim,Não,Não,Sim,Sim,Não,Não,Não,Não,Não,Não
+9724180084,Poças de São Roque,AÇORES,SÃO ROQUE DO PICO,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Não,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Não,Não,Não
+9724180054,Quatro Ribeiras,AÇORES,PRAIA DA VITÓRIA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Não,Sim
+9724180104,Corpo Santo,AÇORES,VILA FRANCA DO CAMPO,Praia Costeira,Água adequada a banhos,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Não,Sim,Não
+9724180038,Praia dos Mosteiros,AÇORES,PONTA DELGADA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Não
+9724180034,Ponta da Ferraria,AÇORES,PONTA DELGADA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Não,Não,Não,Sim,Não,Não,Não,Não,Não,Sim
+9724179976,Portinhos-Fajã Grande,AÇORES,CALHETA DE S. JORGE,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+9724180018,São Mateus,AÇORES,MADALENA,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+9724179970,Salgueiros,AÇORES,ANGRA DO HEROÍSMO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+9724179986,Porto Pim,AÇORES,HORTA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Sim,Sim
+9724180090,Preguiça-Velas,AÇORES,VELAS,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+9724180040,Poças Sul dos Mosteiros,AÇORES,PONTA DELGADA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Não,Sim,Sim,Sim,Não,Sim,Não,Sim,Não,Não,Não,Não,Sim
+9724179974,Negrito,AÇORES,ANGRA DO HEROÍSMO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não
+9724179964,Cinco Ribeiras,AÇORES,ANGRA DO HEROÍSMO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Não,Não
+9724179984,Almoxarife,AÇORES,HORTA,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não
+9724180016,Criação Velha,AÇORES,MADALENA,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+9724180072,Praia dos Moinhos,AÇORES,RIBEIRA GRANDE,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+9724180048,Praia do Fogo (Ribeira Quente),AÇORES,POVOAÇÃO,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+9724180098,Maia,AÇORES,VILA DO PORTO,Praia Costeira,Água adequada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Não,Não,Não,Não,Não
+9724180052,Porto Martins,AÇORES,PRAIA DA VITÓRIA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+10686881392,Admoiro,AÇORES,LAJES DO PICO,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim,Não,Não,Não,Não,Sim,Não
+9724180050,Biscoitos,AÇORES,PRAIA DA VITÓRIA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+9724180062,Praia Grande,AÇORES,PRAIA DA VITÓRIA,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+9724180068,Areal de Santa Bárbara,AÇORES,RIBEIRA GRANDE,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não
+9724180014,Barca,AÇORES,MADALENA,Praia Costeira,Água adequada a banhos,Não,Não,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não,Não,Não,Não
+10686881418,Areia Branca-Foz,TEJO,LOURINHÃ,Praia Costeira,Água desaconselhada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não
+8979630580,Vasco da Gama,ALENTEJO,SINES,Praia Costeira,Água adequada a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Sim,Não,Sim,Sim,Não,Não,Não
+8979630442,Fuseta - Ria,ALGARVE,OLHÃO,Praia Costeira,Água interdita a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Não
+8979629970,Lenta,NORTE,VILA NOVA DE CERVEIRA,Praia Interior,Água desaconselhada a banhos,Sim,Não,Sim,Sim,Sim,Sim,Sim,Não,Sim,Sim,Não,Não,Não,Não,Não,Não
+8979630312,Armação de Pêra,ALGARVE,SILVES,Praia Costeira,Água interdita a banhos,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Sim,Não,Não,Sim

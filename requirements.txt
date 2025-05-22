@@ -1,0 +1,9 @@
+langchain_community
+beautifulsoup4
+pandas
+lxml
+dbfread
+langchain-openai
+langchain-chroma
+faiss-cpu
+python-dotenv
